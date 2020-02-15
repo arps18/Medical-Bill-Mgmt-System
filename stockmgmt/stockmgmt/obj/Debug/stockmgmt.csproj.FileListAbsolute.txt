@@ -1,0 +1,10 @@
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\bin\Debug\stockmgmt.exe
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\bin\Debug\stockmgmt.pdb
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.csprojResolveAssemblyReference.cache
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.Form1.resources
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.Properties.Resources.resources
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.csproj.GenerateResource.Cache
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.exe
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.pdb
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.Login.resources
+C:\Users\vb\Desktop\24\Stock Form\stockmgmt\stockmgmt\obj\Debug\stockmgmt.Bill.resources
